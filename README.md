@@ -1,6 +1,6 @@
 # timing-object
 
-**An implementation of the timing object specification.**
+Forked from [chrisguttandin's TimingObject implentation](https://github.com/chrisguttandin/timing-object), this aims to take the TimingObject and turn it into a general-purpose media syncing tool that can be used outside of the browser (specifically in React-Native applications).
 
 [![version](https://img.shields.io/npm/v/timing-object.svg?style=flat-square)](https://www.npmjs.com/package/timing-object)
 
