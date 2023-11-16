@@ -2,6 +2,7 @@
 
 Forked from [chrisguttandin's TimingObject implentation](https://github.com/chrisguttandin/timing-object), this aims to take the TimingObject and turn it into a general-purpose media syncing tool that can be used outside of the browser (specifically in React-Native applications).
 
+<!--- Commenting this out for now, since it refers to the forked package
 [![version](https://img.shields.io/npm/v/timing-object.svg?style=flat-square)](https://www.npmjs.com/package/timing-object)
 
 This is a standalone implementation of the
@@ -16,6 +17,7 @@ This package is available on [npm](https://www.npmjs.org/package/timing-object).
 ```shell
 npm install timing-object
 ```
+--->
 
 ## TimingObject class
 
